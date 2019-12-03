@@ -289,7 +289,7 @@ spec:
       repoRef:
         name: manifests
         path: pipeline/pipeline-visualization-service
-    name: pipeline-visualization-servicehttps://storage.cloud.google.com/properties_kubeflow/manifests-0.7-branch.tar.gz?authuser=1&cloudshell=true
+    name: pipeline-visualization-service
   - kustomizeConfig:
       overlays:
       - application
