@@ -399,6 +399,6 @@ spec:
       # this field based on default config in gcloud.
       # zone: us-east1-d
   repos:
-  - name: manifests
+  - name: pruebatecnica
     uri: https://github.com/Jonathinsm/pruebatecnica/blob/master/manifests-0.7-branch.tar.gz
   version: master
