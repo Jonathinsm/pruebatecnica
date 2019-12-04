@@ -399,6 +399,6 @@ spec:
       # this field based on default config in gcloud.
       # zone: us-east1-d
   repos:
-  - name: kftest
-    uri: https://github.com/Jonathinsm/kftest/archive/master.tar.gz
+  - name: manifests
+    uri: https://github.com/Jonathinsm/manifests/archive/master.tar.gz
   version: v0.7.0
