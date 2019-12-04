@@ -401,4 +401,4 @@ spec:
   repos:
   - name: kftest
     uri: https://github.com/Jonathinsm/kftest/archive/master.tar.gz
-  version: master
+  version: v0.7.0
