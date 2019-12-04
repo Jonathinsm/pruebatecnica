@@ -399,6 +399,5 @@ spec:
       # this field based on default config in gcloud.
       # zone: us-east1-d
   repos:
-  - name: pruebatecnica
-    uri: https://github.com/Jonathinsm/pruebatecnica/blob/master/manifests-0.7-branch.tar.gz
-  version: master
+  - localPath: '"/home/jonathan_simanca_ext/kubeflow/manifests-0.7-branch"'
+    name: manifest
