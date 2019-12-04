@@ -400,5 +400,5 @@ spec:
       # zone: us-east1-d
   repos:
   - name: manifests
-    uri: https://github.com/kubeflow/manifests/archive/v0.7-branch.tar.gz
+    uri: https://github.com/Jonathinsm/pruebatecnica/blob/master/manifests-0.7-branch.tar.gz
   version: v0.7.0
