@@ -398,7 +398,7 @@ spec:
       # User can specify which zone to deploy to. If not set, will try to auto-fill
       # this field based on default config in gcloud.
       # zone: us-east1-d
-  repos:
-  - name: manifests
-    uri: https://github.com/Jonathinsm/pruebatecnica/blob/master/manifests-0.7-branch.tar.gz
-  version: v0.7.0
+  repo: /home/jonathan_simanca_ext/kubeflow/manifests-0.7-branch
+  useBasicAuth: false
+  useIstio: false
+  version: v07
